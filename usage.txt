@@ -1,0 +1,10 @@
+Nodejs Authentication App.
+this is a user authentication app that uses jwt for registration, reseting password, activate credentials and storing credentials
+this app was built using Nodejs .
+
+open cli and run npm install to install dependencies
+to start the app use npm start
+
+to check if routes are working perfectly on postman 
+then base url is : localhost:5000,
+the routes can be found in the route folder while the body of the request method can be found in the controller folder 
